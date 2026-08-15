@@ -1,5 +1,8 @@
 package main
 
+// 基准测试入口：内容暂时全部注释停用，仅保留 main 函数保证包可编译。
+func main() {}
+
 // import (
 // 	"context"
 // 	"flag"

@@ -54,7 +54,7 @@
             <template slot-scope="scope">
             <img
               style="width: 100px; height: 100px"
-              :src="scope.row.pic_url"
+              :src="scope.row.picUrl"
               class="avatar"
             />
             </template>

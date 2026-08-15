@@ -112,8 +112,8 @@ const onSubmit = async formData => {
                         :rules="[
                             { required: true, message: '请填写用户名' },
                             {
-                                pattern: /^[-_a-zA-Z0-9]{4,16}$/,
-                                message: '只能包含4-16位字母数字下划线减号',
+                                pattern: /^[-_a-zA-Z0-9]{2,16}$/,
+                                message: '只能包含2-16位字母数字下划线减号',
                             },
                         ]" />
                     <van-field

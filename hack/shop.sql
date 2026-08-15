@@ -101,9 +101,8 @@ CREATE TABLE `article_info`  (
 -- ----------------------------
 -- Records of article_info
 -- ----------------------------
-<<<<<<< HEAD
 -- 华凌空调种草文章 - 真实用户体验
-INSERT INTO `article_info` VALUES (1, 101, '华凌N8HE1空调使用3个月真实感受：卧室制冷神器', '租房党福音！静音省电，制冷快，这个夏天终于能睡好觉了', 'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fgfs17.gomein.net.cn%2FT108VWB4W_1RCvBVdK_800.jpg%3Fv%3D1&refer=http%3A%2F%2Fgfs17.gomein.net.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1660794257&t=795ee536d5af33788a249b08d0b28b6f', 2, 236, '坐标上海，卧室15平左右，6月份入手的华凌N8HE1。安装师傅很专业，半小时搞定。
+INSERT INTO `article_info` VALUES (1, 101, '华凌N8HE1空调使用3个月真实感受：卧室制冷神器', '租房党福音！静音省电，制冷快，这个夏天终于能睡好觉了', 'https://dummyimage.com/600x400/2e8b57/ffffff&text=Midea', 2, 236, '坐标上海，卧室15平左右，6月份入手的华凌N8HE1。安装师傅很专业，半小时搞定。
 
 使用感受：
 1. 制冷真的快！开机5分钟整个房间就凉下来了，温度很均匀
@@ -114,7 +113,7 @@ INSERT INTO `article_info` VALUES (1, 101, '华凌N8HE1空调使用3个月真实
 缺点：遥控器有点简单，要是能连接手机APP就更好了。不过这个价格，还要什么自行车！', '2022-06-15 14:30:22', '2022-06-15 14:30:22', NULL);
 
 -- 小米空气净化器种草文章 - 过敏患者福音
-INSERT INTO `article_info` VALUES (2, 102, '小米空气净化器Pro H：过敏体质的救星', '养宠物+过敏体质的我，终于找到了呼吸自由的秘诀', 'https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5f7a9c5b9e1c4a1d0d3d3d3d3d3d3d3d.jpg', 2, 189, '家里养了两只猫，我又有过敏性鼻炎，一到春秋就难受得不行。朋友推荐了小米空气净化器Pro H，用了半个月，效果真的惊艳！
+INSERT INTO `article_info` VALUES (2, 102, '小米空气净化器Pro H：过敏体质的救星', '养宠物+过敏体质的我，终于找到了呼吸自由的秘诀', 'https://dummyimage.com/600x400/ff6700/ffffff&text=MIJIA', 2, 189, '家里养了两只猫，我又有过敏性鼻炎，一到春秋就难受得不行。朋友推荐了小米空气净化器Pro H，用了半个月，效果真的惊艳！
 
 使用体验：
 1. 净化速度快！开机半小时，PM2.5从120降到20以下
@@ -125,7 +124,7 @@ INSERT INTO `article_info` VALUES (2, 102, '小米空气净化器Pro H：过敏�
 现在每天起床鼻子都很舒服，再也不会一直打喷嚏了。强烈推荐给养宠物和过敏体质的朋友！', '2022-09-28 09:15:47', '2022-09-28 09:15:47', NULL);
 
 -- 戴森吸尘器种草文章 - 家居清洁神器
-INSERT INTO `article_info` VALUES (3, 103, '戴森V12吸尘器：让做家务变成一种享受', '无线轻便，吸力强，各种缝隙都能轻松搞定', 'https://www.dyson.cn/content/dam/dyson-cn/images/products/cordless-vacuums/v12/dyson-v12-detect-slim/fluffy-main-image.png', 2, 452, '作为一个爱干净的家庭主妇，试过很多吸尘器，直到遇到戴森V12。
+INSERT INTO `article_info` VALUES (3, 103, '戴森V12吸尘器：让做家务变成一种享受', '无线轻便，吸力强，各种缝隙都能轻松搞定', 'https://dummyimage.com/600x400/6a5acd/ffffff&text=Dyson', 2, 452, '作为一个爱干净的家庭主妇，试过很多吸尘器，直到遇到戴森V12。
 
 使用感受：
 1. 无线设计太方便了！不用再拖着线到处跑，想吸哪里吸哪里
@@ -137,7 +136,7 @@ INSERT INTO `article_info` VALUES (3, 103, '戴森V12吸尘器：让做家务变
 虽然价格有点贵，但真的物超所值，大大节省了做家务的时间！', '2022-11-12 16:45:12', '2022-11-12 16:45:12', NULL);
 
 -- 美的冰箱种草文章 - 三口之家的选择
-INSERT INTO `article_info` VALUES (4, 104, '美的BCD-478WSPZM(E)冰箱：大容量还能除味', '三口之家够用，保鲜效果好，再也没有异味困扰', 'https://img12.360buyimg.com/n7/jfs/t1/198818/30/30076/123456/632c9a29E1a7a5a5a/1a1a1a1a1a1a1a1a.jpg', 2, 156, '家里之前的冰箱太小了，放不了多少东西，还容易串味。双十一换了美的这款478升的冰箱，真的太香了！
+INSERT INTO `article_info` VALUES (4, 104, '美的BCD-478WSPZM(E)冰箱：大容量还能除味', '三口之家够用，保鲜效果好，再也没有异味困扰', 'https://dummyimage.com/600x400/1e90ff/ffffff&text=Midea', 2, 156, '家里之前的冰箱太小了，放不了多少东西，还容易串味。双十一换了美的这款478升的冰箱，真的太香了！
 
 使用体验：
 1. 容量大！冷藏冷冻都很能装，三口之家完全够用
@@ -149,7 +148,7 @@ INSERT INTO `article_info` VALUES (4, 104, '美的BCD-478WSPZM(E)冰箱：大容
 价格也很亲民，性价比很高，推荐给需要换冰箱的家庭！', '2022-12-05 11:20:33', '2022-12-05 11:20:33', NULL);
 
 -- 索尼电视种草文章 - 影音爱好者必入
-INSERT INTO `article_info` VALUES (5, 105, '索尼XR-65X90J电视：在家就能享受影院级体验', '画质惊艳，音效震撼，看电影玩游戏都超爽', 'https://www.sony.com.cn/image/0014b557b6d34b99a52b39a7000d3d3d?fmt=pjpeg&wid=1200&hei=630&bgcolor=FFFFFF&bgc=FFFFFF', 2, 318, '作为一个影音爱好者，纠结了很久终于入手了索尼XR-65X90J。
+INSERT INTO `article_info` VALUES (5, 105, '索尼XR-65X90J电视：在家就能享受影院级体验', '画质惊艳，音效震撼，看电影玩游戏都超爽', 'https://dummyimage.com/600x400/4169e1/ffffff&text=SONY', 2, 318, '作为一个影音爱好者，纠结了很久终于入手了索尼XR-65X90J。
 
 使用感受：
 1. 画质真的绝了！色彩鲜艳真实，对比度高，HDR效果惊艳
@@ -161,7 +160,7 @@ INSERT INTO `article_info` VALUES (5, 105, '索尼XR-65X90J电视：在家就能
 虽然价格不便宜，但对于追求画质和音效的朋友来说，绝对值得入手！', '2023-02-18 19:45:56', '2023-02-18 19:45:56', NULL);
 
 -- 小熊加湿器种草文章 - 干燥季节必备
-INSERT INTO `article_info` VALUES (6, 106, '小熊加湿器JSQ-C40L5：办公室和卧室都能用', '静音加湿，容量大，再也不怕皮肤干燥了', 'https://img14.360buyimg.com/n7/jfs/t1/187655/33/29876/123456/632c9a29E1a7a5a5a/2b2b2b2b2b2b2b2b.jpg', 2, 98, '北方的冬天真的太干燥了，办公室和家里都需要加湿器。对比了很多款，选了小熊这款。
+INSERT INTO `article_info` VALUES (6, 106, '小熊加湿器JSQ-C40L5：办公室和卧室都能用', '静音加湿，容量大，再也不怕皮肤干燥了', 'https://dummyimage.com/600x400/ffa500/ffffff&text=Bear', 2, 98, '北方的冬天真的太干燥了，办公室和家里都需要加湿器。对比了很多款，选了小熊这款。
 
 使用体验：
 1. 容量大！4升的水箱，加满水可以用一整晚
@@ -173,7 +172,7 @@ INSERT INTO `article_info` VALUES (6, 106, '小熊加湿器JSQ-C40L5：办公室
 价格便宜，质量不错，推荐给需要加湿器的朋友！', '2023-01-10 10:15:22', '2023-01-10 10:15:22', NULL);
 
 -- 苏泊尔电饭煲种草文章 - 米饭爱好者的福音
-INSERT INTO `article_info` VALUES (7, 107, '苏泊尔SF40HC88电饭煲：煮出的米饭真的不一样', 'IH加热，口感Q弹，各种米都能煮出好味道', 'https://img13.360buyimg.com/n7/jfs/t1/198818/30/30076/123456/632c9a29E1a7a5a5a/3c3c3c3c3c3c3c3c.jpg', 2, 175, '家里之前的电饭煲用了5年，煮出来的米饭总是软硬不均。换了苏泊尔这款IH电饭煲，真的惊艳到我了！
+INSERT INTO `article_info` VALUES (7, 107, '苏泊尔SF40HC88电饭煲：煮出的米饭真的不一样', 'IH加热，口感Q弹，各种米都能煮出好味道', 'https://dummyimage.com/600x400/c71585/ffffff&text=SUPOR', 2, 175, '家里之前的电饭煲用了5年，煮出来的米饭总是软硬不均。换了苏泊尔这款IH电饭煲，真的惊艳到我了！
 
 使用体验：
 1. 米饭口感真的好！Q弹有嚼劲，不管是东北米还是泰国香米都能煮出好味道
@@ -185,7 +184,7 @@ INSERT INTO `article_info` VALUES (7, 107, '苏泊尔SF40HC88电饭煲：煮出�
 价格适中，性价比很高，推荐给注重米饭口感的朋友！', '2023-03-25 15:30:44', '2023-03-25 15:30:44', NULL);
 
 -- 苹果AirPods Pro 2种草文章 - 通勤必备神器
-INSERT INTO `article_info` VALUES (8, 108, 'AirPods Pro 2使用体验：降噪效果真的能打', '通勤路上的救星，音质好，佩戴舒适', 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83CH/A_AV1?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1664472259559', 2, 422, '作为一个每天通勤2小时的打工人，AirPods Pro 2真的是我的救星！
+INSERT INTO `article_info` VALUES (8, 108, 'AirPods Pro 2使用体验：降噪效果真的能打', '通勤路上的救星，音质好，佩戴舒适', 'https://dummyimage.com/600x400/808080/ffffff&text=AirPods', 2, 422, '作为一个每天通勤2小时的打工人，AirPods Pro 2真的是我的救星！
 
 使用体验：
 1. 降噪效果太绝了！地铁上的噪音几乎完全听不到，世界瞬间安静
@@ -458,25 +457,25 @@ CREATE TABLE `goods_info`  (
 -- Records of goods_info
 -- ----------------------------
 -- 家用电器 - 电视
-INSERT INTO `goods_info` VALUES (1, 'https://img12.360buyimg.com/n7/jfs/t1/202536/20/30083/123456/632c9a29E1a7a5a5a/1a1a1a1a1a1a1a1a.jpg', '索尼XR-65X90J 65英寸 4K超高清 HDR 安卓智能电视', 699900, 1, 6, 20, '索尼', 100, 500, '4K超高清, HDR, 安卓智能, 全面屏', '索尼XR-65X90J采用XR认知芯片，4K HDR图像处理，全面屏设计，安卓智能系统，支持多种流媒体平台，音效震撼，是家庭影音娱乐的理想选择。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
+INSERT INTO `goods_info` VALUES (1, 'https://dummyimage.com/600x600/4a90d9/ffffff&text=SONY', '索尼XR-65X90J 65英寸 4K超高清 HDR 安卓智能电视', 699900, 1, 6, 20, '索尼', 100, 500, '4K超高清, HDR, 安卓智能, 全面屏', '索尼XR-65X90J采用XR认知芯片，4K HDR图像处理，全面屏设计，安卓智能系统，支持多种流媒体平台，音效震撼，是家庭影音娱乐的理想选择。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
 
 -- 家用电器 - 空调
-INSERT INTO `goods_info` VALUES (2, 'https://img13.360buyimg.com/n7/jfs/t1/198818/30/30076/123456/632c9a29E1a7a5a5a/2b2b2b2b2b2b2b2b.jpg', '格力KFR-35GW/NhGc1B 1.5匹 变频冷暖 一级能效 壁挂式空调', 329900, 1, 7, 24, '格力', 200, 800, '变频冷暖, 一级能效, 壁挂式, 静音', '格力1.5匹变频空调，一级能效，冷暖两用，静音设计，适合15-20平米房间使用，节能省电，制冷制热效果好。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
+INSERT INTO `goods_info` VALUES (2, 'https://dummyimage.com/600x600/50b674/ffffff&text=GREE', '格力KFR-35GW/NhGc1B 1.5匹 变频冷暖 一级能效 壁挂式空调', 329900, 1, 7, 24, '格力', 200, 800, '变频冷暖, 一级能效, 壁挂式, 静音', '格力1.5匹变频空调，一级能效，冷暖两用，静音设计，适合15-20平米房间使用，节能省电，制冷制热效果好。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
 
 -- 手机数码 - 手机
-INSERT INTO `goods_info` VALUES (3, 'https://img14.360buyimg.com/n7/jfs/t1/187655/33/29876/123456/632c9a29E1a7a5a5a/3c3c3c3c3c3c3c3c.jpg', 'Apple iPhone 14 Pro 256GB 暗紫色 移动联通电信5G手机', 899900, 2, 11, 28, '苹果', 150, 1200, '5G, 256GB, 暗紫色, A16芯片', 'iPhone 14 Pro采用A16仿生芯片，灵动岛设计，4800万像素主摄，支持ProMotion自适应刷新率，全天候显示，是苹果旗舰手机的代表。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
+INSERT INTO `goods_info` VALUES (3, 'https://dummyimage.com/600x600/333333/ffffff&text=iPhone14', 'Apple iPhone 14 Pro 256GB 暗紫色 移动联通电信5G手机', 899900, 2, 11, 28, '苹果', 150, 1200, '5G, 256GB, 暗紫色, A16芯片', 'iPhone 14 Pro采用A16仿生芯片，灵动岛设计，4800万像素主摄，支持ProMotion自适应刷新率，全天候显示，是苹果旗舰手机的代表。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
 
 -- 手机数码 - 耳机
-INSERT INTO `goods_info` VALUES (4, 'https://img15.360buyimg.com/n7/jfs/t1/198818/30/30076/123456/632c9a29E1a7a5a5a/4d4d4d4d4d4d4d4d.jpg', '华为FreeBuds Pro 2 主动降噪 无线蓝牙耳机', 129900, 2, 12, 0, '华为', 300, 2000, '主动降噪, 无线蓝牙, 高清音质', '华为FreeBuds Pro 2采用主动降噪技术，高清音质，无线蓝牙连接，续航持久，佩戴舒适，适合日常使用和通勤。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
+INSERT INTO `goods_info` VALUES (4, 'https://dummyimage.com/600x600/e8453c/ffffff&text=HUAWEI', '华为FreeBuds Pro 2 主动降噪 无线蓝牙耳机', 129900, 2, 12, 0, '华为', 300, 2000, '主动降噪, 无线蓝牙, 高清音质', '华为FreeBuds Pro 2采用主动降噪技术，高清音质，无线蓝牙连接，续航持久，佩戴舒适，适合日常使用和通勤。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
 
 -- 电脑办公 - 笔记本电脑
-INSERT INTO `goods_info` VALUES (5, 'https://img16.360buyimg.com/n7/jfs/t1/187655/33/29876/123456/632c9a29E1a7a5a5a/5e5e5e5e5e5e5e5e.jpg', '联想ThinkPad X1 Carbon 2023款 14英寸轻薄笔记本电脑', 1099900, 3, 15, 32, '联想', 80, 300, '轻薄本, 14英寸, 高性能, 商务办公', '联想ThinkPad X1 Carbon 2023款采用14英寸轻薄设计，高性能处理器，长续航，商务办公首选，品质可靠，便携性强。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
+INSERT INTO `goods_info` VALUES (5, 'https://dummyimage.com/600x600/6a5acd/ffffff&text=ThinkPad', '联想ThinkPad X1 Carbon 2023款 14英寸轻薄笔记本电脑', 1099900, 3, 15, 32, '联想', 80, 300, '轻薄本, 14英寸, 高性能, 商务办公', '联想ThinkPad X1 Carbon 2023款采用14英寸轻薄设计，高性能处理器，长续航，商务办公首选，品质可靠，便携性强。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
 
 -- 家居家装 - 沙发
-INSERT INTO `goods_info` VALUES (6, 'https://img17.360buyimg.com/n7/jfs/t1/198818/30/30076/123456/632c9a29E1a7a5a5a/6f6f6f6f6f6f6f6f.jpg', '顾家家居 现代简约布艺沙发 三人位沙发', 499900, 4, 0, 0, '顾家家居', 50, 150, '现代简约, 布艺沙发, 三人位, 客厅家具', '顾家家居现代简约布艺沙发，三人位设计，适合客厅使用，面料舒适，坐感柔软，简约时尚，易于清洁。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
+INSERT INTO `goods_info` VALUES (6, 'https://dummyimage.com/600x600/d2691e/ffffff&text=KUKA', '顾家家居 现代简约布艺沙发 三人位沙发', 499900, 4, 0, 0, '顾家家居', 50, 150, '现代简约, 布艺沙发, 三人位, 客厅家具', '顾家家居现代简约布艺沙发，三人位设计，适合客厅使用，面料舒适，坐感柔软，简约时尚，易于清洁。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
 
 -- 服饰鞋包 - 运动鞋
-INSERT INTO `goods_info` VALUES (7, 'https://img18.360buyimg.com/n7/jfs/t1/187655/33/29876/123456/632c9a29E1a7a5a5a/7g7g7g7g7g7g7g7g.jpg', 'Nike Air Zoom Pegasus 39 男子跑步鞋', 89900, 5, 0, 0, 'Nike', 120, 600, '跑步鞋, 气垫缓震, 轻便透气', 'Nike Air Zoom Pegasus 39男子跑步鞋，采用Zoom Air气垫缓震，轻便透气，适合日常跑步和训练，舒适耐穿，时尚美观。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
+INSERT INTO `goods_info` VALUES (7, 'https://dummyimage.com/600x600/ff7f50/ffffff&text=NIKE', 'Nike Air Zoom Pegasus 39 男子跑步鞋', 89900, 5, 0, 0, 'Nike', 120, 600, '跑步鞋, 气垫缓震, 轻便透气', 'Nike Air Zoom Pegasus 39男子跑步鞋，采用Zoom Air气垫缓震，轻便透气，适合日常跑步和训练，舒适耐穿，时尚美观。', '2023-01-01 00:00:00', '2023-01-01 00:00:00', NULL);
 -- ----------------------------
 -- Table structure for goods_options_info
 -- ----------------------------
